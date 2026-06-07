@@ -46,14 +46,6 @@ I build reliable products end to end, with a strong bias for maintainable system
 ### Languages
 - 🇬🇧 **English, Norwegian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamedjal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hamed stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedjal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Hamed top languages"/>
-
-</div>
-
 ### Contribution Snake
 
 <div align="center">
@@ -71,7 +63,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/hamedjal">github.com/hamedjal</a></sub>
+<sub> <a href="https://github.com/hamedjal">github.com/hamedjal</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
