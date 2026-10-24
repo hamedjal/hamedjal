@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Hamed&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Hamed banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Hamed&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack Developer | Embedded Software Engineer | AI Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Hamed"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 I build reliable products end to end, with a strong bias for maintainable systems and polished developer experience.
 
 - ⌖ **Location** · Norway
-- ⟳ **Learning** · Svelte, Rust, product strategy, and better DX tooling
+- ⟳ **Learning** · Svelte, Rust, product strategy, and better DX tooling.
 
 ### Featured Projects
 
@@ -44,7 +44,8 @@ I build reliable products end to end, with a strong bias for maintainable system
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,numpy,pandas,jupyter&theme=dark" alt="AI / ML"/>
 
 ### Languages
-- 🇬🇧 **English, Norwegian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+- **English, Norwegian**
 
 ### Contribution Snake
 
@@ -56,8 +57,6 @@ I build reliable products end to end, with a strong bias for maintainable system
 </picture>
 
 </div>
-
-> Requires GitHub Actions setup
 
 ---
 
